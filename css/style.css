@@ -17,3 +17,12 @@
      color: rgba(54, 49, 49, 0.781);
      font-weight: bold;
  }
+ .what1 {
+     display: none;
+ }
+ .what2{
+    display: none;
+}
+.what3 {
+    display: none;
+}
