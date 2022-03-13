@@ -1,30 +1,30 @@
 $(document).ready(function() {
-    $(".img1").click(function() {
-      $(".what1").fadeToggle();
-      $(".img1").slideToggle();
+    $(".img1, .titl1").click(function() {
+      $(".what1").toggle();
+      $(".img1").toggle();
     });
     $(".what1").click(function() {
-        $(".img1").fadeToggle();
-        $(".what1").slideToggle();
+        $(".img1").toggle();
+        $(".what1").toggle();
       });
 
 
-      $(".img2").click(function() {
-        $(".what2").fadeToggle();
-        $(".img2").slideToggle();
+      $(".img2, .titl2").click(function() {
+        $(".what2").toggle();
+        $(".img2").toggle();
       });
       $(".what2").click(function() {
-          $(".img2").fadeToggle();
-          $(".what2").slideToggle();
+          $(".img2").toggle();
+          $(".what2").toggle();
         });
 
-        $(".img3").click(function() {
-            $(".what3").fadeToggle();
-            $(".img3").slideToggle();
+        $(".img3, .titl3").click(function() {
+            $(".what3").toggle();
+            $(".img3").toggle();
           });
           $(".what3").click(function() {
-              $(".img3").fadeToggle();
-              $(".what3").slideToggle();
+              $(".img3").toggle();
+              $(".what3").toggle();
             });
   });
   
