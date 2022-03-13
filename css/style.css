@@ -13,3 +13,7 @@
  label {
      color: white;
  }
+ .ftr {
+     color: rgba(54, 49, 49, 0.781);
+     font-weight: bold;
+ }
