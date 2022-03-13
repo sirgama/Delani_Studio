@@ -29,3 +29,9 @@
 .card:hover {
     opacity: 0.5;
 }
+.img1, .img2, .img3{
+    margin-left: 150px;
+}
+.titl {
+    margin-right: 25px;
+}
