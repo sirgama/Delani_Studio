@@ -26,8 +26,9 @@
 .what3 {
     display: none;
 }
-.card:hover {
-    opacity: 0.5;
+.card::after {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* opacity: 0.5; */
 }
 .img1, .img2, .img3{
     margin-left: 150px;
@@ -40,5 +41,13 @@
     border-radius: 0px;
 }
 .card-title {
+    border: .3px solid white;
+    border-width: 7px;
+    height: 27vh;
+    width: 17vw;
     display: none;
+    font-weight: 900;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
 }

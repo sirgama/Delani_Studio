@@ -29,57 +29,57 @@ $(document).ready(function() {
 
 
     $(".card1").mouseover(function(){
-        $(".card-title1").slideToggle();
+        $(".card-title1").show();
     });
     $(".card1").mouseleave(function(){
-        $(".card-title1").slideToggle();
+        $(".card-title1").hide();
     });
 
     $(".card2").mouseover(function(){
-        $(".card-title2").slideToggle();
+        $(".card-title2").show();
     });
     $(".card2").mouseleave(function(){
-        $(".card-title2").slideToggle();
+        $(".card-title2").hide();
     });
 
     $(".card3").mouseover(function(){
-        $(".card-title3").slideToggle();
+        $(".card-title3").show();
     });
     $(".card3").mouseleave(function(){
-        $(".card-title3").slideToggle();
+        $(".card-title3").hide();
     });
 
     $(".card4").mouseover(function(){
-        $(".card-title4").slideToggle();
+        $(".card-title4").show();
     });
     $(".card4").mouseleave(function(){
-        $(".card-title4").slideToggle();
+        $(".card-title4").hide();
     });
 
     $(".card5").mouseover(function(){
-        $(".card-title5").slideToggle();
+        $(".card-title5").show();
     });
     $(".card5").mouseleave(function(){
-        $(".card-title5").slideToggle();
+        $(".card-title5").hide();
     });
 
     $(".card6").mouseover(function(){
-        $(".card-title6").slideToggle();
+        $(".card-title6").show();
     });
     $(".card6").mouseleave(function(){
-        $(".card-title6").slideToggle();
+        $(".card-title6").hide();
     });
     $(".card7").mouseover(function(){
-        $(".card-title7").slideToggle();
+        $(".card-title7").show();
     });
     $(".card7").mouseleave(function(){
-        $(".card-title7").slideToggle();
+        $(".card-title7").hide();
     });
     $(".card8").mouseover(function(){
-        $(".card-title8").slideToggle();
+        $(".card-title8").show();
     });
     $(".card8").mouseleave(function(){
-        $(".card-title8").slideToggle();
+        $(".card-title8").hide();
     });
 
 
